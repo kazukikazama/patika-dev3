@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çikolata Küpleri</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>...Menemen...</h1>
+    <p>
+        Alemin Kralı... Sucuklu Pastırmalı Menemen.
+        <a href="https://google.com.tr/" target="_blank">
+            <img src="https://i2.milimaj.com/i/milliyet/75/0x410/5fa3e48a5542821a08545ced.jpg" alt="deneme" width="350px" height="250px">
+    </p><br>
+    <p>
+        <b>Tarif:</b> Anamın Özel Tarifi
+    </p>
+    <p class="pr">
+        <span>Kaç Kişilik:</span> Anca Bana Yeter:D <span>Hazırlama Süresi:</span> 15 Dakika  <span>Pişirme Süresi:</span> 10 Dakika
+    </p>
+    <div>
+        <div class="ff">
+            Menemen Tarifi için Malzemeler... 
+        </div>
+         
+         <ul>
+                <li>
+                    40 Yumurta
+                </li>
+                <li>
+                    Yarım Kilo tereyağı ve 2 yemek kaşığı Zeytinyağı.
+                </li>
+                <li>
+                    2 Kilo Biber
+                </li>
+                <li>
+                    2 Kilo Domates
+                </li>
+                <li>
+                    2 Büyük Soğan
+                </li>
+                <li>
+                    1 Büyük Sarımsak
+                </li>
+                <li>
+                    Hakiki Kasap Sucuğu ve Kavurmaaaaa!!!!
+                </li>
+                <li>
+                    Kaşar Peyniri :D 
+                </li>
+            </ul>
+        
+    </div>
+</ul><br>
+<div>
+<div class="sam">
+    Menemen Nasıl Yapılır?
+</div>
+<ul>
+    <ol>
+        <li>
+            Öncelikle Herşeyi doğra... Zeytinyağını ateşe koy kızdır. 
+        </li>
+        <li>
+            Önce Biberleri koy. Sonra sucuk ve kavurmayı sonrada ssoğanları koy. Pişme zorluguna göre bu şekilde koyuluyor. Soğanı önceden koyarsan Simsiyah olur:D 
+        </li>
+        <li>
+            Herşey piştimi ? YAPIŞTIR DOMATESLERİ...!!!!!
+        </li>
+        <li>
+            dOMATESLER ERİYİNCE YUMURTALARIN 30 TANESİNİ AYRI BİR KAPTA İYİCE KARIŞTIR. TUZUNU KOYMAYI UNUTMA! 
+        </li>
+        <li>
+            OCAĞIN ALTINI KIS..!!!
+        </li>
+        <li>
+            ÖNCE ÇIRPILMIŞ YUMURTALARI SONRA KALAN 10 TANEYİ SARISINI PATLATMADAN TAVAYA KOY. YUMURTANIN AKINI İYİCE KARIŞTIR. 
+        </li>
+        <li>
+            SARILARINI BOZMADAN YUMURTA AKLARINI PİŞİR... 
+        </li>
+    </ol>
+</ul>
+<h3>KIH KIH KIH :DD   Afiyet olsun...</h3>
+</div>
+
+</body>
+</html>
